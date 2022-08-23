@@ -1,10 +1,10 @@
 <?php 
-	$DIR = ".."; // Must take to root.
+	$DIR = ".";
 	require $DIR."/components/head.php";
 ?>
 	<!-- <link rel="stylesheet" type="text/css" href="/style/XXXX.css">-->
 	<!-- <script type="text/javascript" src="script/XXXX.js" defer></script>-->
-	<title>Rollist - Page Name</title>
+	<title><!-- Insert Page Title Here --></title>
 <?php
 	require $DIR."/components/header.php";
 ?>

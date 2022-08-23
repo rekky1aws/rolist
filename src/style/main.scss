@@ -49,6 +49,21 @@ footer a:hover {
 	text-decoration: underline;
 }
 
+.cliquable:hover {
+	transform: scale(1.05);
+}
+
+.cliquable:active {
+	transform: scale(0.9);
+}
+
+.main-button {
+	font-weight: bold;
+	border: none;
+	border-radius: 25px;
+	padding: 5px 10px;
+}
+
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen 
 and (min-device-width : 320px) 

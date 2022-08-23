@@ -2,7 +2,7 @@
 	$DIR = ".."; // Must take to root.
 	require $DIR."/components/head.php";
 ?>
-	<link rel="stylesheet" type="text/css" href="/style/about.css">
+	<link rel="stylesheet" type="text/css" href="/dist/style/about.css">
 	<!-- <script type="text/javascript" src="script/XXXX.js" defer></script>-->
 	<title>Rollist - About Us</title>
 <?php
@@ -26,7 +26,7 @@
 		</section>
 	</div>
 
-	Pour l'instant le design est immonde, ca va changer par la suite.
+	Pour l'instant le design est immonde, ne nous en tenez pas rigueur, cela va changer par la suite.
 
 <?php
 	require $DIR."/components/footer.php";

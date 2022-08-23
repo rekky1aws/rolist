@@ -1,0 +1,51 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  gap: 5px; }
+
+form h2 {
+  text-align: center; }
+
+input {
+  border: 1px solid black;
+  padding: 5px 10px;
+  border-radius: 25px; }
+
+.connect-button, .create-button {
+  margin-top: 15px;
+  color: white; }
+
+.connect-button {
+  background-color: seagreen; }
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 40px; }
+
+.create-button {
+  background-color: cornflowerblue; }
+
+.form-element {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px; }
+  .form-element label {
+    text-align: center; }
+
+.separator {
+  display: none; }
+
+@media screen only and (min-width: 720px) {
+  .separator {
+    display: block;
+    width: 5px;
+    background-color: grey;
+    border: 2px solid red;
+    height: 100%; } }
+
+/*# sourceMappingURL=login.css.map */
