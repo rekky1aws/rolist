@@ -1,7 +1,7 @@
 # Project Rolist
 
 ## Languages
- + [English] (#English)
+ + [English](#English)
  + [Français](#Français)
 
 ## English
