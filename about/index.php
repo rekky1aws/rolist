@@ -19,10 +19,18 @@
 		<section>
 			<h2>Equipe</h2>
 			<p>L'équipe est composé de Donatien "rekkylaws" Hochart et de Loïc "lolocontact" Petitprez. Nous touchons tous les deux un peu a à tous les aspect de la création de ce site web, du code pur et dur des fonctionnalités, aux aspects estéthiques. </p>
-			<!-- <span>Donatien Hochart :</span> 
-			<ul>
-				<li><a href="https://github.com/rekky1aws">GitHub</a></li>
-			</ul> -->
+			<article>
+				<h3>Donatien "rekkylaws" Hochart</h3>
+				<ul>
+					<li><span> GitHub : </span><a href="https://github.com/rekky1aws/">rekky1aws</a></li>
+				</ul>
+			</article>
+			<article>
+				<h3>Loic "lolocontact" Petitprez</h3>
+				<ul>
+					<li><span> GitHub : </span><a href="https://github.com/lolocontact/">lolocontact</a></li>
+				</ul>
+			</article>
 		</section>
 	</div>
 
