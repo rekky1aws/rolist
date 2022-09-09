@@ -15,15 +15,26 @@
   position: fixed;
   width: 33vw;
   height: 100vh;
-  background-color: #FFFFFF77;
+  background-color: cornsilk;
   top: 0;
   right: -100%;
-  transition: ease-in-out 0.2s; }
+  transition: ease-in-out 0.5s;
+  box-shadow: -5px 0 5px 5px #00000055; }
 
 .burger-header {
   width: 100%;
-  background-color: #00000077;
-  height: 100px; }
+  background-color: #FFD500;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center; }
+  .burger-header > h2 {
+    display: inline-block;
+    font-size: 2em;
+    color: #00296B; }
+  .burger-header > .cross-container {
+    position: absolute;
+    left: 25px; }
 
 .burger-content {
   display: flex;
@@ -33,5 +44,10 @@
   height: 100%;
   gap: 10px;
   overflow-y: auto; }
+  .burger-content > a {
+    color: #00296B;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold; }
 
 /*# sourceMappingURL=burger-menu.css.map */
