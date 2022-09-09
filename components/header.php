@@ -12,5 +12,8 @@
 		<div class="burger-header close-burger">
 			
 		</div>
+		<div class="burger-content">
+			<a href="/about">A propos</a>
+		</div>
 	</nav>
 	<main>
