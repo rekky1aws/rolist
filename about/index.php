@@ -4,6 +4,7 @@
 ?>
 	<link rel="stylesheet" type="text/css" href="/dist/style/about.css">
 	<!-- <script type="text/javascript" src="script/XXXX.js" defer></script>-->
+	<script type="text/javascript" src="/src/script/konami-code.js" defer></script>
 	<title>Rollist - About Us</title>
 <?php
 	require $DIR."/components/header.php";
