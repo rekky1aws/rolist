@@ -1,16 +1,18 @@
+@import 'variables';
+
 section {
 	margin: 15px;
 	padding: 15px;
-	background-color: #FFD500;
-	color: #00296B;
+	background-color: $base-color;
+	color: $accent-color;
 	border-radius: 25px;
 	box-shadow: 5px 5px 10px 0 #1D1D1D66;
 }
 
 section h2 {
 	margin: 0;
-	color: cornsilk;
-	background-color: #00296B;
+	color: $text-color;
+	background-color: $accent-color;
 	padding: 15px;
 	display: inline;
 	position: relative;

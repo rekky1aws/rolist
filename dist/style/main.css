@@ -61,7 +61,7 @@ footer a:hover {
   align-items: center;
   transition: ease-in-out 0.2s;
   border-radius: 50%;
-  border: 5px solid #00296B00;
+  border: 5px solid #00000000;
   opacity: 0.5; }
   .cross-container:hover {
     transform: rotate(90deg);

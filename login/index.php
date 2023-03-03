@@ -10,7 +10,7 @@
 	require $DIR."/components/header.php";
 ?>
 <!-- Page Content -->
-	<div class="container">
+	<div class="container vflex">
 		<form method="POST">
 			<h2> Se connecter </h2>
 			<div class="form-element">
